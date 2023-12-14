@@ -1,0 +1,21 @@
+.w1{
+    width: 180px;
+    height: 80px;}
+
+
+.padding1{
+    padding: 50px 60px;
+}.p-color{
+    color: rgb(0, 0, 39);
+}
+.h-color{
+    color: rgb(189, 13, 13);
+}
+.b-color{
+    color: white;
+    background-color: rgb(194, 87, 87);
+    border-color: rgb(202, 152, 106);
+    width: 100px;
+    height: 50px;
+    font-size: medium;
+}
